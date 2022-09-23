@@ -18,7 +18,7 @@
             },
             "s3": {
                 "s3SchemaVersion": "1.0",
-                "configurationId": "arn:aws:cloudformation:eu-west-1:731070500579:stack/WebenableHackathonStack/63ea2a40-3a87-11ed-bfa4-024debeebe41--8059722032651069954",
+                "configurationId": "arn:aws:cloudformation:eu-west-1:123456789012:stack/WebenableHackathonStack/63ea2a40-3a87-11ed-bfa4-024debeebe41--8059722032651069954",
                 "bucket": {
                     "name": "tdv-birds",
                     "ownerIdentity": {

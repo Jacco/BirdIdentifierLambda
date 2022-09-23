@@ -1,0 +1,16 @@
+To create the file for this layer execute
+
+./python_layer/create_layer.sh
+
+python.zip
+
+Contains the pckages:
+====================
+PIL
+tflite_runtime==2.7.0
+numpy
+
+Size:
+=====
+Zipped: 24MB
+Unzipped: 85MB

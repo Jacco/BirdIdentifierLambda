@@ -9,3 +9,4 @@ cdk.out
 .DS_Store
 package-lock.json
 site-packages*
+src/birdid_layer/python_2.7.0.zip

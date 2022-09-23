@@ -1,16 +1,28 @@
 import * as cdk from 'aws-cdk-lib';
 import { Construct } from 'constructs';
-// import * as sqs from 'aws-cdk-lib/aws-sqs';
+import { Code, Function, Handler, Runtime} from 'aws-cdk-lib/aws-lambda';
+import { Bucket, EventType } from 'aws-cdk-lib/aws-s3';
+import { Duration } from 'aws-cdk-lib';
+import { LambdaDestination } from 'aws-cdk-lib/aws-s3-notifications';
 
 export class WebenableHackathonStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
 
-    // The code that defines your stack goes here
+    const bucket = Bucket.fromBucketName(this, "Bucket", "tdv-birds");
 
-    // example resource
-    // const queue = new sqs.Queue(this, 'WebenableHackathonQueue', {
-    //   visibilityTimeout: cdk.Duration.seconds(300)
-    // });
+    // The code that defines your stack goes here
+    const func = new Function(this, "Function", {
+      code: Code.fromAssetImage("./", {
+        exclude: ["cdk.out"],
+      }),
+      handler: Handler.FROM_IMAGE,
+      runtime: Runtime.FROM_IMAGE,
+      timeout: Duration.minutes(1),
+      memorySize: 4096
+    })
+
+    bucket.grantReadWrite(func);
+    bucket.addEventNotification(EventType.OBJECT_CREATED, new LambdaDestination(func));
   }
 }

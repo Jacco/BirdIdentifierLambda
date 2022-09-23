@@ -1,0 +1,966 @@
+id,name,dutch_name
+964,background,achtergrond
+0,Haemorhous cassinii,Cassins roodmus
+1,Aramus guarauna,Koerlan
+2,Rupornis magnirostris,Wegbuizerd
+3,Cyanocitta cristata,Blauwe gaai
+4,Cyanocitta stelleri,Stellers gaai
+5,Balearica regulorum,Grijze kroonkraanvogel
+6,Pyrocephalus rubinus,Scharlaken tiran
+7,Recurvirostra americana,Amerikaanse kluut
+8,Ardeotis kori,Koritrap
+9,Pica nuttalli,Geelsnavelekster
+10,Perisoreus canadensis,Canadese taigagaai
+11,Antigone canadensis,Canadese kraanvogel
+12,Parkesia noveboracensis,Noordse waterlijster
+13,Ardea herodias occidentalis,404
+14,Porzana carolina,Soraral
+15,Anas platyrhynchos diazi,404
+16,Motacilla cinerea,Grote gele kwikstaart
+17,Empidonax difficilis,Oeverfeetiran
+18,Empidonax minimus,Kleine feetiran
+19,Empidonax fulvifrons,Blonde feetiran
+20,Empidonax traillii,Wilgenfeetiran
+21,Empidonax hammondii,Sparrenfeetiran
+22,Empidonax occidentalis,Hooglandfeetiran
+23,Rallus limicola,Virginiaral
+24,Grus grus,Kraanvogel (vogel)
+25,Quiscalus major,Bootstaarttroepiaal
+26,Branta leucopsis,Brandgans
+27,Cyanocorax yucatanicus,Yucatángaai
+28,Cyanocorax yncas,Incagaai
+29,Oceanites oceanicus,Wilsons stormvogeltje
+30,Quiscalus niger,Antilliaanse troepiaal
+31,Psilorhinus morio,Bruine gaai
+32,Megarynchus pitangua,Bootsnaveltiran
+33,Gallinula tenebrosa,Zwart waterhoen
+34,Gallus gallus domesticus,Kip (vogel)
+35,Numida meleagris,Helmparelhoen
+36,Junco hyemalis caniceps,404
+37,Tyrannus vociferans,Cassins koningstiran
+38,Tyrannus tyrannus,Koningstiran
+39,Tyrannus forficatus,Zwaluwstaartkoningstiran
+40,Tyrannus crassirostris,Diksnavelkoningstiran
+41,Tyrannus verticalis,Arkansaskoningstiran
+42,Tyrannus savana,Vorkstaartkoningstiran
+43,Gallirallus australis,Weka
+44,Calocitta formosa,Ekstergaai
+45,Calocitta colliei,Collies ekstergaai
+46,Fulica americana,Amerikaanse meerkoet
+47,Pachyramphus aglaiae,Grote bekarde
+48,Buteo lagopus,Ruigpootbuizerd
+49,Cygnus atratus,Zwarte zwaan
+50,Philesturnus rufusater,Noordelijke zadelrug
+51,Larus marinus,Grote mantelmeeuw
+52,Pitangus sulphuratus,Grote kiskadie
+53,Anas rubripes,Amerikaanse zwarte eend
+54,Anthus novaeseelandiae novaeseelandiae,404
+55,Sayornis phoebe,Phoebe (vogel)
+56,Sayornis nigricans,Zwarte phoebe
+57,Tityra semifasciata,Maskertityra
+58,Dryocopus lineatus,Gestreepte helmspecht
+59,Porphyrio melanotus,Australische purperkoet
+60,Anas bahamensis,Bahamapijlstaart
+61,Egretta novaehollandiae,Witwangreiger
+62,Anas crecca carolinensis,404
+63,Alectoris chukar,Aziatische steenpatrijs
+64,Tachybaptus dominicus,Amerikaanse dodaars
+65,Artemisiospiza belli,Bells gors
+66,Gallus gallus,Bankivahoen
+67,Cardinalis sinuatus,Grijze kardinaal
+68,Cardinalis cardinalis,Rode kardinaal
+69,Melospiza lincolnii,Lincolns gors
+70,Podilymbus podiceps,Dikbekfuut
+71,Melospiza georgiana,Moerasgors
+72,Meleagris gallopavo,Kalkoen (dier)
+73,Meleagris ocellata,Pauwkalkoen
+74,Lagopus lagopus,Moerassneeuwhoen
+75,Spizella atrogularis,Zwartkingors
+76,Pyrrhocorax graculus,Alpenkauw
+77,Spizella breweri,Brewers gors
+78,Sialia currucoides,Bergsialia
+79,Spizella pusilla,Veldgors
+80,Anas superciliosa,Wenkbrauweend
+81,Passerella iliaca,Rode roodstaartgors
+82,Phoenicopterus ruber,Rode flamingo
+83,Sylvia atricapilla,Zwartkop
+84,Vireo bellii,Bells vireo
+85,Vireo plumbeus,Loodkleurige vireo
+86,Vireo philadelphicus,Philadelphiavireo
+87,Vireo flavifrons,Citroenborstvireo
+88,Vireo olivaceus,Roodoogvireo
+89,Zonotrichia querula,Zwartkruingors
+90,Vireo huttoni,Huttons vireo
+91,Zonotrichia albicollis,Witkeelgors
+92,Zonotrichia atricapilla,Goudkruingors
+93,Emberiza citrinella,Geelgors
+94,Bucephala islandica,IJslandse brilduiker
+95,Emberiza schoeniclus,Rietgors
+96,Vireo gilvus,Orpheusvireo
+97,Serinus serinus,Europese kanarie
+98,Serinus mozambicus,Mozambiquesijs
+99,Lophura leucomelanos,Nepalfazant
+100,Euphonia elegantissima,Blauwkaporganist
+101,Euphonia hirundinacea,Geelkeelorganist
+102,Euphonia affinis,Struikorganist
+103,Agelaius tricolor,Driekleurtroepiaal
+104,Momotus lessonii,Lessons motmot
+105,Zosterops japonicus,Zangbrilvogel
+106,Phalacrocorax pelagicus,Pelagische aalscholver
+107,Icterus cucullatus,Maskertroepiaal
+108,Icterus graduacauda,Zwartkoptroepiaal
+109,Motacilla aguimp,Afrikaanse bonte kwikstaart
+110,Anas superciliosa × platyrhynchos,Wenkbrauweend (platyrhynchos)
+111,Icterus pustulatus,Vlekrugtroepiaal
+112,Icterus gularis,Altamiratroepiaal
+113,Carduelis cannabina,Kneu
+114,Catharus minimus,Grijswangdwerglijster
+115,Amaurornis phoenicurus,Witborstwaterhoen
+116,Pavo cristatus,Blauwe pauw
+117,Rallus crepitans,Klapperral
+118,Nestor meridionalis septentrionalis,404
+119,Pipilo chlorurus,Groenstaarttowie
+120,Pipilo maculatus,Gevlekte towie
+121,Pipilo erythrophthalmus,Roodflanktowie
+122,Cairina moschata domestica,404
+123,Phalacrocorax varius,Bonte aalscholver
+124,Picoides dorsalis,Amerikaanse drieteenspecht
+125,Picoides nuttallii,Nuttalls specht
+126,Picoides scalaris,Ladderspecht
+127,Callipepla gambelii,Gambels kuifkwartel
+128,Pyrrhula pyrrhula,Goudvink
+129,Phalacrocorax brasilianus,Bigua-aalscholver
+130,Picoides pubescens,Donsspecht
+131,Colinus virginianus,Bobwhite
+132,Sporophila torqueola,Kaneelstuitdikbekje
+133,Picoides villosus,Haarspecht
+134,Calidris pusilla,Grijze strandloper
+135,Picoides arcticus,Zwartrugspecht
+136,Aythya marila,Topper (vogel)
+137,Phaethon aethereus,Roodsnavelkeerkringvogel
+138,Sturnella magna,Witkaakweidespreeuw
+139,Melopsittacus undulatus,Grasparkiet
+140,Aythya affinis,Kleine topper
+141,Aythya novaeseelandiae,Nieuw-Zeelandse topper
+142,Cyrtonyx montezumae,Montezumabergkwartel
+143,Pelecanus occidentalis,Bruine pelikaan
+144,Cinclus cinclus,Waterspreeuw
+145,Chen rossii,Ross' gans
+146,Callipepla californica,Californische kuifkwartel
+147,Quiscalus quiscula,Glanstroepiaal
+148,Quiscalus mexicanus,Langstaarttroepiaal
+149,Callipepla squamata,Geschubde kwartel
+150,Dryocopus pileatus,Noord-Amerikaanse helmspecht
+151,Passerina caerulea,Blauwe bisschop
+152,Amazilia beryllina,Berylamazilia
+153,Geothlypis trichas,Gewone maskerzanger
+154,Trogon melanocephalus,Zwartkoptrogon
+155,Sylvia communis,Grasmus
+156,Pinicola enucleator,Haakbek
+157,Coccothraustes vespertinus,Avonddikbek
+158,Coccothraustes coccothraustes,Appelvink
+159,Vermivora chrysoptera,Geelvleugelzanger
+160,Opisthocomus hoazin,Hoatzin (soort)
+161,Setophaga coronata coronata,404
+162,Diglossa baritula,Mexicaanse berghoningkruiper
+163,Saltator coerulescens,Amazonische grijze saltator
+164,Saltator atriceps,Zwartkopsaltator
+165,Sicalis flaveola,Gewone saffraangors
+166,Aix galericulata,Mandarijneend
+167,Junco hyemalis hyemalis,404
+168,Eupsittula canicularis,Ivooraratinga
+169,Microcarbo melanoleucos,Kleine bonte aalscholver
+170,Piranga rubra,Zomertangare
+171,Piranga olivacea,Zwartvleugeltangare
+172,Piranga flava,Laaglandlevertangare
+173,Amphispiza bilineata,Zwartkeelgors
+174,Larus dominicanus,Kelpmeeuw
+175,Piaya cayana,Eekhoornkoekoek
+176,Aimophila ruficeps,Roestkruingors
+177,Melanerpes lewis,Lewis' specht
+178,Melanerpes uropygialis,Gilaspecht
+179,Passerculus sandwichensis,Savannahgors
+180,Melanerpes pucherani,Zwartwangspecht
+181,Salpinctes obsoletus,Amerikaanse rotswinterkoning
+182,Melanerpes carolinus,Roodbuikspecht
+183,Melanerpes chrysogenys,Goudwangspecht
+184,Melanerpes formicivorus,Eikelspecht
+185,Colaptes auratus,Gouden grondspecht
+186,Basileuterus rufifrons,Roodkapzanger
+187,Larus michahellis,Geelpootmeeuw
+188,Ramphocelus passerinii,Roodrugtangare
+189,Athene cunicularia,Holenuil
+190,Branta hutchinsii,Kleine Canadese gans
+191,Fringilla montifringilla,Keep (vogel)
+192,Fringilla coelebs,Vink (vogel)
+193,Junco hyemalis,Grijze junco
+194,Cuculus canorus,Koekoek (vogel)
+195,Junco phaeonotus,Geeloogjunco
+196,Ammodramus nelsoni,Nelsons spitsstaartgors
+197,Ammodramus savannarum,Sprinkhaangors
+198,Ammodramus maritimus,Kweldergors
+199,Coccyzus erythropthalmus,Zwartsnavelkoekoek
+200,Coccyzus minor,Mangrovekoekoek
+201,Coccyzus americanus,Geelsnavelkoekoek
+202,Nucifraga columbiana,Grijze notenkraker
+203,Crotophaga sulcirostris,Groefsnavelani
+204,Pooecetes gramineus,Avondgors
+205,Arremonops rufivirgatus,Olijfgors
+206,Geococcyx californianus,Grote renkoekoek
+207,Geococcyx velox,Kleine renkoekoek
+208,Coereba flaveola,Suikerdiefje
+209,Passerina ciris,Purpergors
+210,Alectura lathami,Boskalkoen
+211,Passerina leclancherii,Regenbooggors
+212,Passerina amoena,Lazuligors
+213,Icteria virens,Geelborstzanger
+214,Crax rubra,Bruine hokko
+215,Penelope purpurascens,Kuifsjakohoen
+216,Copsychus malabaricus,Shamalijster
+217,Paroaria capitata,Geelsnavelkardinaal
+218,Cyanerpes cyaneus,Blauwe suikervogel
+219,Microcarbo melanoleucos brevirostris,404
+220,Sphyrapicus thyroideus,Bergsapspecht
+221,Pheucticus ludovicianus,Roodborstkardinaal
+222,Sphyrapicus ruber,Roodborstsapspecht
+223,Pheucticus melanocephalus,Zwartkopkardinaal
+224,Sphyrapicus nuchalis,Roodneksapspecht
+225,Ortalis poliocephala,Westmexicaanse chachalaca
+226,Ortalis vetula,Bruine chachalaca
+227,Corvus albus,Schildraaf
+228,Mniotilta varia,Bonte zanger
+229,Volatinia jacarina,Jacarinagors
+230,Thraupis palmarum,Palmtangare
+231,Momotus mexicanus,Bruinkapmotmot
+232,Euphagus cyanocephalus,Brewers troepiaal
+233,Cacatua galerita,Grote geelkuifkaketoe
+234,Junco hyemalis oreganus,404
+235,Pluvialis fulva,Aziatische goudplevier
+236,Molothrus aeneus,Roodoogkoevogel
+237,Molothrus ater,Bruinkopkoevogel
+238,Merops pusillus,Dwergbijeneter
+239,Merops apiaster,Bijeneter
+240,Pteroglossus torquatus,Halsbandarassari
+241,Loxia curvirostra,Kruisbek
+242,Merops orientalis,Aziatische kleine groene bijeneter
+243,Loxia leucoptera,Witbandkruisbek
+244,Coracias garrulus,Scharrelaar
+245,Coracias caudatus,Vorkstaartscharrelaar
+246,Coracias benghalensis,Indische scharrelaar
+247,Xanthocephalus xanthocephalus,Geelkoptroepiaal
+248,Chondestes grammacus,Roodoorgors
+249,Dolichonyx oryzivorus,Bobolink
+250,Pandion haliaetus,Visarend
+251,Phainopepla nitens,Zwarte zijdevliegenvanger
+252,Tyrannus couchii,Texaanse koningstiran
+253,Phylloscopus collybita,Tjiftjaf
+254,Circus cyaneus hudsonius,404
+255,Grallina cyanoleuca,Australische slijkekster
+256,Plectrophenax nivalis,Sneeuwgors
+257,Calamospiza melanocorys,Prairiegors
+258,Regulus calendula,Roodkroonhaan
+259,Regulus ignicapilla,Vuurgoudhaan
+260,Regulus regulus,Goudhaan
+261,Regulus satrapa,Amerikaanse goudhaan
+262,Tyrannus melancholicus,Tropische koningstiran
+263,Pelecanus conspicillatus,Australische pelikaan
+264,Aulacorhynchus prasinus,Smaragdarassari
+265,Todiramphus sanctus,Heilige ijsvogel
+266,Icterus bullockii,Bullocks troepiaal
+267,Spiza americana,Dickcissel
+268,Tyrannus dominicensis,Grijze koningstiran
+269,Chlidonias niger,Zwarte stern
+270,Oriturus superciliosus,Zwartwanggors
+271,Psarocolius montezuma,Montezuma oropendola
+272,Turdus pilaris,Kramsvogel
+273,Notiomystis cincta,Geelbandhoningeter
+274,Sagittarius serpentarius,Secretarisvogel
+275,Psittacula krameri,Halsbandparkiet
+276,Platycercus eximius,Prachtrosella
+277,Protonotaria citrea,Citroenzanger
+278,Megaceryle torquata,Amerikaanse reuzenijsvogel
+279,Nestor meridionalis,Kaka (vogel)
+280,Amazona viridigenalis,Groenwangamazone
+281,Amazona albifrons,Witvoorhoofdamazone
+282,Amazona oratrix,Geelkopamazone
+283,Saxicola rubetra,Paapje
+284,Ara militaris,Soldatenara
+285,Spizelloides arborea,Toendragors
+286,Ceryle rudis,Bonte ijsvogel
+287,Chloroceryle aenea,Groene dwergijsvogel
+288,Chloroceryle amazona,Amazoneijsvogel
+289,Myiozetetes similis,Roodkruintiran
+290,Toxostoma curvirostre,Krombekspotlijster
+291,Megaceryle alcyon,Bandijsvogel
+292,Eremophila alpestris,Strandleeuwerik
+293,Alisterus scapularis,Australische koningsparkiet
+294,Cinnyris jugularis,Staalborsthoningzuiger
+295,Xiphorhynchus flavigaster,Ivoorsnavelmuisspecht
+296,Jacana jacana,Leljacana
+297,Phalaropus fulicarius,Rosse franjepoot
+298,Streptopelia turtur,Zomertortel
+299,Pica hudsonia,Amerikaanse ekster
+300,Corvus cornix,Bonte kraai
+301,Myiopsitta monachus,Monniksparkiet
+302,Streptopelia decaocto,Turkse tortel
+303,Piranga ludoviciana,Louisianatangare
+304,Ixobrychus exilis,Amerikaanse woudaap
+305,Auriparus flaviceps,Geelkopmees
+306,Geothlypis tolmiei,Rouwkopzanger
+307,Columba livia,Rotsduif
+308,Setophaga citrina,Monnikszanger
+309,Setophaga cerulea,Azuurzanger
+310,Columba palumbus,Houtduif
+311,Piranga bidentata,Bloedtangare
+312,Patagioenas leucocephala,Witkapduif
+313,Patagioenas fasciata,Bandstaartduif
+314,Patagioenas flavirostris,Roodsnavelduif
+315,Setophaga discolor,Prairiezanger
+316,Chordeiles minor,Amerikaanse nachtzwaluw
+317,Chordeiles acutipennis,Texasnachtzwaluw
+318,Platalea leucorodia,Lepelaar
+319,Phalaenoptilus nuttallii,Poorwill
+320,Haemorhous mexicanus,Mexicaanse roodmus
+321,Haemorhous purpureus,Amerikaanse roodmus
+322,Nyctidromus albicollis,Pauraque
+323,Campephilus guatemalensis,Koningsspecht
+324,Toxostoma rufum,Rosse spotlijster
+325,Leptotila verreauxi,Verreaux' duif
+326,Nyctibius jamaicensis,Noordelijke reuzennachtzwaluw
+327,Anas penelope,Smient
+328,Buteo plagiatus,Grijze buizerd
+329,Selasphorus calliope,Calliopekolibrie
+330,Megascops kennicottii,Westelijke schreeuwuil
+331,Porphyrio poliocephalus,Grijskoppurperkoet
+332,Megascops asio,Oostelijke schreeuwuil
+333,Zenaida auriculata,Geoorde treurduif
+334,Hymenolaimus malacorhynchos,Blauwe eend
+335,Setophaga caerulescens,Blauwe zwartkeelzanger
+336,Camptostoma imberbe,Chaparralvliegenpikker
+337,Caracara plancus,Kuifcaracara
+338,Columbina passerina,Musduif
+339,Eupsittula nana,Olijfkeelaratinga
+340,Nestor notabilis,Kea (vogel)
+341,Columbina talpacoti,Steenduif
+342,Geopelia striata,Zebraduif
+343,Athene noctua,Steenuil
+344,Crotophaga ani,Kleine ani
+345,Sialia sialis,Roodkeelsialia
+346,Platalea alba,Afrikaanse lepelaar
+347,Bubo virginianus,Amerikaanse oehoe
+348,Petrochelidon fulva,Holezwaluw
+349,Progne subis,Purperzwaluw
+350,Setophaga coronata auduboni,404
+351,Hirundo neoxena,Welkomzwaluw
+352,Hirundo rustica,Boerenzwaluw
+353,Calidris virgata,Brandingloper
+354,Calidris pugnax,Kemphaan
+355,Platalea regia,Koningslepelaar
+356,Tachycineta thalassina,Groene zwaluw
+357,Bostrychia hagedash,Hadada-ibis
+358,Riparia riparia,Oeverzwaluw
+359,Eudocimus albus,Witte ibis
+360,Plegadis falcinellus,Zwarte ibis
+361,Plegadis chihi,Witmaskeribis
+362,Corvus corax,Corvus corax
+363,Stelgidopteryx serripennis,Noord-Amerikaanse ruwvleugelzwaluw
+364,Sula dactylatra,Maskergent
+365,Sula sula,Roodpootgent
+366,Sula leucogaster,Bruine gent
+367,Morus serrator,Pacifische jan-van-gent
+368,Eudyptula minor,Dwergpinguïn
+369,Megadyptes antipodes,Geeloogpinguïn
+370,Scopus umbretta,Hamerkop
+371,Troglodytes troglodytes,Winterkoning
+372,Calidris canutus,Kanoet
+373,Lanius collurio,Grauwe klauwier
+374,Calidris bairdii,Bairds strandloper
+375,Meleagris gallopavo intermedia,404
+376,Calidris mauri,Alaskastrandloper
+377,Calidris maritima,Paarse strandloper
+378,Calidris alpina,Bonte strandloper
+379,Calidris ferruginea,Krombekstrandloper
+380,Calidris melanotos,Gestreepte strandloper
+381,Limnodromus griseus,Kleine grijze snip
+382,Malurus cyaneus,Ornaatelfje
+383,Tringa nebularia,Groenpootruiter
+384,Todiramphus sanctus vagans,404
+385,Tringa ochropus,Witgat
+386,Tringa glareola,Bosruiter
+387,Tringa melanoleuca,Grote geelpootruiter
+388,Tringa flavipes,Kleine geelpootruiter
+389,Numenius arquata,Wulp
+390,Numenius phaeopus,Regenwulp
+391,Phalacrocorax carbo novaehollandiae,404
+392,Petroica macrocephala macrocephala,404
+393,Petroica australis longipes,404
+394,Prosthemadera novaeseelandiae novaeseelandiae,404
+395,Asio flammeus,Velduil
+396,Rhipidura fuliginosa fuliginosa,404
+397,Scolopax minor,Amerikaanse houtsnip
+398,Arenaria interpres,Steenloper
+399,Arenaria melanocephala,Zwarte steenloper
+400,Rhipidura fuliginosa placabilis,404
+401,Limosa limosa,Grutto
+402,Limosa haemastica,Rode grutto
+403,Limosa fedoa,Marmergrutto
+404,Phalaropus lobatus,Grauwe franjepoot
+405,Bartramia longicauda,Bartrams ruiter
+406,Limosa lapponica,Rosse grutto
+407,Aegolius acadicus,Zaaguil
+408,Actitis hypoleucos,Oeverloper (vogel)
+409,Trichoglossus haematodus,Regenbooglori
+410,Surnia ulula,Sperweruil
+411,Polioptila caerulea,Blauwgrijze muggenvanger
+412,Spizella passerina,Musgors
+413,Pycnonotus jocosus,Roodoorbuulbuul
+414,Passerina cyanea,Indigogors
+415,Passerina versicolor,Veelkleurengors
+416,Manorina melanocephala,Tuinhoningeter
+417,Ocyphaps lophotes,Spitskuifduif
+418,Jabiru mycteria,Jabiroe
+419,Pycnonotus cafer,Roodbuikbuulbuul
+420,Anser cygnoides domesticus,404
+421,Picus viridis,Groene specht
+422,Phoebastria nigripes,Zwartvoetalbatros
+423,Struthio camelus,Struisvogel
+424,Phoebastria immutabilis,Laysanalbatros
+425,Fulmarus glacialis,Noordse stormvogel
+426,Francolinus pondicerianus,Grijze frankolijn
+427,Cynanthus latirostris,Breedsnavelkolibrie
+428,Podiceps nigricollis,Geoorde fuut
+429,Podiceps cristatus,Fuut
+430,Podiceps auritus,Kuifduiker
+431,Dendrocopos major,Grote bonte specht
+432,Podiceps grisegena,Roodhalsfuut
+433,Tachybaptus ruficollis,Dodaars
+434,Charadrius montanus,Prairieplevier
+435,Phalacrocorax auritus,Geoorde aalscholver
+436,Phalacrocorax carbo,Aalscholver
+437,Phalacrocorax penicillatus,Brandts aalscholver
+438,Aechmophorus clarkii,Clarks fuut
+439,Pelecanus onocrotalus,Roze pelikaan
+440,Pelecanus erythrorhynchos,Witte pelikaan
+441,Zenaida macroura,Treurduif
+442,Vanellus miles,Maskerkievit
+443,Larus occidentalis,Californische meeuw
+444,Trogon massena,Massena's trogon
+445,Larus thayeri,Thayers meeuw
+446,Larus heermanni,Heermanns meeuw
+447,Larus livens,Mexicaanse meeuw
+448,Larus canus,Stormmeeuw
+449,Larus glaucoides,Kleine burgemeester
+450,Larus delawarensis,Ringsnavelmeeuw
+451,Trogon collaris,Gekraagde trogon
+452,Zenaida asiatica,Witvleugeltreurduif
+453,Larus fuscus,Kleine mantelmeeuw
+454,Larus californicus,Prairiemeeuw
+455,Prosthemadera novaeseelandiae,Toei (vogel)
+456,Trogon elegans,Koperstaarttrogon
+457,Larus glaucescens,
+458,Trogon citreolus,Grijskoptrogon
+459,Cepphus columba,Duifzeekoet
+460,Himantopus leucocephalus,Australische steltkluut
+461,Cepphus grylle,Zwarte zeekoet
+462,Anthornis melanura,Maori-belhoningvogel
+463,Leptoptilos crumenifer,Afrikaanse maraboe
+464,Threskiornis moluccus,Australische witte ibis
+465,Thraupis episcopus,Bisschopstangare
+466,Geranoaetus albicaudatus,Witstaartbuizerd
+467,Sterna paradisaea,Noordse stern
+468,Sterna hirundo,Visdief
+469,Sterna forsteri,Forsters stern
+470,Lanius excubitor,Klapekster
+471,Pharomachrus mocinno,Quetzal (vogel)
+472,Sterna striata,Tarastern
+473,Stercorarius parasiticus,Kleine jager
+474,Stercorarius pomarinus,Middelste jager
+475,Anas gracilis,Australische taling
+476,Rissa tridactyla,Drieteenmeeuw
+477,Rynchops niger,Amerikaanse schaarbek
+478,Alca torda,Alk (soort)
+479,Fratercula arctica,Papegaaiduiker
+480,Fratercula cirrhata,Kuifpapegaaiduiker
+481,Turdus merula,Merel
+482,Turdus plumbeus,Roodpootlijster
+483,Turdus grayi,Grays lijster
+484,Turdus migratorius,Roodborstlijster
+485,Turdus viscivorus,Grote lijster
+486,Cerorhinca monocerata,Neushoornalk
+487,Turdus philomelos,Zanglijster
+488,Galbula ruficauda,Roodstaartglansvogel
+489,Jacana spinosa,Jacana (soort)
+490,Saxicola rubicola,Roodborsttapuit
+491,Upupa epops,Hop (vogel)
+492,Euphagus carolinus,Zwarte troepiaal
+493,Gavia pacifica,Pacifische parelduiker
+494,Mimus gilvus,Tropische spotlijster
+495,Passer italiae,Italiaanse mus
+496,Gavia immer,IJsduiker
+497,Gavia stellata,Roodkeelduiker
+498,Oenanthe oenanthe,Tapuit
+499,Fregata magnificens,Amerikaanse fregatvogel
+500,Fregata minor,Grote fregatvogel
+501,Falco subbuteo,Boomvalk
+502,Falco mexicanus,Prairievalk
+503,Falco femoralis,Aplomadovalk
+504,Falco peregrinus,Slechtvalk
+505,Falco rufigularis,Vleermuisvalk
+506,Falco sparverius,Amerikaanse torenvalk
+507,Strix varia,Gestreepte bosuil
+508,Falco columbarius,Smelleken
+509,Gallinula chloropus,Waterhoen
+510,Cardellina pusilla,Wilsons zanger
+511,Catharus ustulatus,Dwerglijster
+512,Falco novaeseelandiae,Nieuw-Zeelandse valk
+513,Catharus guttatus,Heremietlijster
+514,Catharus fuscescens,Veery
+515,Caracara cheriway,Noordelijke kuifcaracara
+516,Herpetotheres cachinnans,Lachvalk
+517,Calcarius lapponicus,IJsgors
+518,Milvago chimachima,Geelkopcaracara
+519,Ciconia ciconia,Ooievaar
+520,Mycteria americana,Kaalkopooievaar
+521,Mycteria ibis,Afrikaanse nimmerzat
+522,Sialia mexicana,Blauwkeelsialia
+523,Ephippiorhynchus senegalensis,Zadelbekooievaar
+524,Cathartes aura,Roodkopgier
+525,Myadestes townsendi,Bergsolitaire
+526,Cathartes burrovianus,Kleine geelkopgier
+527,Sarcoramphus papa,Koningsgier
+528,Coragyps atratus,Zwarte gier
+529,Strix nebulosa,Laplanduil
+530,Anastomus lamelligerus,Afrikaanse gaper
+531,Pluvialis squatarola,Zilverplevier
+532,Gymnogyps californianus,Californische condor
+533,Muscicapa striata,Grauwe vliegenvanger
+534,Charadrius vociferus,Killdeerplevier
+535,Charadrius wilsonia,Dikbekplevier
+536,Charadrius melodus,Dwergplevier
+537,Phoenicurus phoenicurus,Gekraagde roodstaart
+538,Phoenicurus ochruros,Zwarte roodstaart
+539,Charadrius dubius,Kleine plevier
+540,Eumomota superciliosa,Wenkbrauwmotmot
+541,Anas querquedula,Zomertaling
+542,Himantopus mexicanus,Amerikaanse steltkluut
+543,Haematopus bachmani,Noord-Amerikaanse zwarte scholekster
+544,Pica pica,Ekster
+545,Haematopus ostralegus,Scholekster
+546,Haematopus unicolor,Nieuw-Zeelandse zwarte scholekster
+547,Vanellus vanellus,Kievit
+548,Vanellus spinosus,Sporenkievit
+549,Vanellus armatus,Smidsplevier
+550,Luscinia svecica,Blauwborst
+551,Columbina inca,Incaduif
+552,Recurvirostra avosetta,Kluut
+553,Phasianus colchicus,Fazant
+554,Pluvialis dominica,Amerikaanse goudplevier
+555,Cinclus mexicanus,Noord-Amerikaanse waterspreeuw
+556,Erithacus rubecula,Roodborst
+557,Melanerpes aurifrons,Goudvoorhoofdspecht
+558,Charadrius hiaticula,Bontbekplevier
+559,Egretta gularis,Westelijke rifreiger
+560,Egretta caerulea,Kleine blauwe reiger
+561,Egretta tricolor,Witbuikreiger
+562,Egretta thula,Amerikaanse kleine zilverreiger
+563,Egretta garzetta,Kleine zilverreiger
+564,Egretta sacra,Oostelijke rifreiger
+565,Monticola solitarius,Blauwe rotslijster
+566,Ardea cocoi,Sokoireiger
+567,Ardea cinerea,Blauwe reiger
+568,Ardea herodias,Amerikaanse blauwe reiger
+569,Nycticorax nycticorax,Kwak (vogel)
+570,Turdus rufopalliatus,Roestruglijster
+571,Ardeola ralloides,Ralreiger
+572,Nyctanassa violacea,Geelkruinkwak
+573,Aramides cajaneus,Cayennebosral
+574,Bubulcus ibis,Koereiger
+575,Butorides virescens,Groene reiger
+576,Porphyrio martinicus,Amerikaans purperhoen
+577,Botaurus lentiginosus,Noord-Amerikaanse roerdomp
+578,Cochlearius cochlearius,Schuitbekreiger
+579,Anhinga novaehollandiae,Australische slangenhalsvogel
+580,Anhinga rufa,Afrikaanse slangenhalsvogel
+581,Melozone fusca,Bruine towie
+582,Aquila chrysaetos,Steenarend
+583,Hylocichla mustelina,Amerikaanse boslijster
+584,Aphelocoma wollweberi,Noord-Mexicaanse gaai
+585,Accipiter striatus,Amerikaanse sperwer
+586,Accipiter nisus,Sperwer (vogel)
+587,Accipiter gentilis,Havik (vogel)
+588,Egretta rufescens,Roodhalsreiger
+589,Bucephala clangula,Brilduiker
+590,Anous stolidus,Noddy
+591,Actitis macularius,Amerikaanse oeverloper
+592,Ardea purpurea,Purperreiger
+593,Todiramphus chloris,Witkraagijsvogel
+594,Grus americana,Trompetkraanvogel
+595,Himantopus himantopus,Steltkluut
+596,Glaucidium gnoma,Bergdwerguil
+597,Circus approximans,Pacifische bruine kiekendief
+598,Circus aeruginosus,Bruine kiekendief
+599,Phalacrocorax sulcirostris,Zwarte aalscholver
+600,Buteo albonotatus,Bandstaartbuizerd
+601,Butorides striata,Mangrovereiger
+602,Platalea ajaja,Rode lepelaar
+603,Buteo brachyurus,Kortstaartbuizerd
+604,Ardea alba,Grote zilverreiger
+605,Buteo swainsoni,Prairiebuizerd
+606,Alectoris rufa,Rode patrijs
+607,Buteo lineatus,Roodschouderbuizerd
+608,Buteo jamaicensis,Roodstaartbuizerd
+609,Charadrius nivosus,Amerikaanse strandplevier
+610,Tringa incana,Amerikaanse grijze ruiter
+611,Tringa semipalmata,Willet
+612,Terathopius ecaudatus,Bateleur
+613,Gallinago delicata,Amerikaanse watersnip
+614,Buteogallus anthracinus,Zwarte buizerd
+615,Chroicocephalus philadelphia,Kleine kokmeeuw
+616,Circaetus gallicus,Slangenarend
+617,Chroicocephalus novaehollandiae,Witkopmeeuw
+618,Chroicocephalus ridibundus,Kokmeeuw
+619,Leucophaeus atricilla,Lachmeeuw
+620,Leucophaeus pipixcan,Franklins meeuw
+621,Onychoprion fuscatus,Bonte stern
+622,Sternula antillarum,Amerikaanse dwergstern
+623,Hydroprogne caspia,Reuzenstern
+624,Thalasseus maximus,Koningsstern
+625,Thalasseus bergii,Grote kuifstern
+626,Elanus leucurus,Amerikaanse grijze wouw
+627,Alopochen aegyptiaca,Nijlgans
+628,Streptopelia senegalensis,Palmtortel
+629,Gerygone igata,Maorimangrovezanger
+630,Haliaeetus leucocephalus,Amerikaanse zeearend
+631,Cistothorus platensis,Graswinterkoning
+632,Haliaeetus vocifer,Afrikaanse zeearend
+633,Bubo scandiacus,Sneeuwuil
+634,Ciccaba virgata,404
+635,Bonasa umbellus,Kraaghoen
+636,Busarellus nigricollis,Moerasbuizerd
+637,Rostrhamus sociabilis,Slakkenwouw
+638,Milvus milvus,Rode wouw
+639,Gyps fulvus,Vale gier
+640,Ficedula hypoleuca,Bonte vliegenvanger
+641,Momotus coeruliceps,Blauwkruinmotmot
+642,Charadrius semipalmatus,Amerikaanse bontbekplevier
+643,Haliastur indus,Brahmaanse wouw
+644,Gyps africanus,Witruggier
+645,Ictinia mississippiensis,Mississippiwouw
+646,Dives dives,Rouwtroepiaal
+647,Baeolophus atricristatus,Zwartkruinmees
+648,Baeolophus bicolor,Tweekleurige mees
+649,Baeolophus inornatus,Grijze mees
+650,Melospiza melodia,Zanggors
+651,Spinus spinus,Sijs
+652,Motacilla alba,Witte kwikstaart
+653,Certhia americana,Amerikaanse boomkruiper
+654,Bucorvus leadbeateri,Zuidelijke hoornraaf
+655,Anthus pratensis,Graspieper
+656,Anthus rubescens,Pacifische waterpieper
+657,Tachycineta albilinea,Mangrovezwaluw
+658,Poecile carolinensis,Carolinamees
+659,Poecile atricapillus,Amerikaanse matkop
+660,Poecile gambeli,Gambels mees
+661,Poecile rufescens,Kastanjerugmees
+662,Periparus ater,Zwarte mees
+663,Chlorophanes spiza,Groene suikervogel
+664,Estrilda astrild,Sint-Helenafazantje
+665,Cyanistes caeruleus,Pimpelmees
+666,Sphyrapicus varius,Geelbuiksapspecht
+667,Petrochelidon pyrrhonota,Amerikaanse klifzwaluw
+668,Troglodytes pacificus,Pacifische winterkoning
+669,Troglodytes hiemalis,Oost-Amerikaanse winterkoning
+670,Passer montanus,Ringmus
+671,Passer domesticus,Huismus
+672,Aphelocoma californica,Westelijke struikgaai
+673,Amazilia yucatanensis,Yucatánamazilia
+674,Amazilia tzacatl,Roodstaartamazilia
+675,Dicrurus adsimilis,Treurdrongo
+676,Amazilia violiceps,Violetkapamazilia
+677,Lonchura punctulata,Muskaatvink
+678,Tigrisoma mexicanum,Mexicaanse tijgerroerdomp
+679,Porphyrio melanotus melanotus,404
+680,Melanitta americana,Amerikaanse zee-eend
+681,Spizella pallida,Bleke gors
+682,Amazilia rutila,Kaneelkleurige amazilia
+683,Zenaida aurita,Antilliaanse treurduif
+684,Prunella modularis,Heggenmus
+685,Falco tinnunculus,Torenvalk
+686,Ixoreus naevius,Bonte lijster
+687,Archilochus colubris,Robijnkeelkolibrie
+688,Lampornis clemenciae,Blauwkeeljuweelkolibrie
+689,Myiarchus tuberculifer,Monnikskaptiran
+690,Setophaga ruticilla,Amerikaanse roodstaart
+691,Myiarchus tyrannulus,Cayennetiran
+692,Zosterops lateralis,Grijsrugbrilvogel
+693,Zonotrichia leucophrys,Witkruingors
+694,Agelaius phoeniceus,Epauletspreeuw
+695,Parus major,Koolmees
+696,Zonotrichia capensis,Roodkraaggors
+697,Oreothlypis peregrina,404
+698,Oreothlypis celata,404
+699,Oreothlypis ruficapilla,404
+700,Geothlypis philadelphia,Grijskopzanger
+701,Geothlypis formosa,Kentuckyzanger
+702,Setophaga tigrina,Tijgerzanger
+703,Setophaga americana,Brilparulazanger
+704,Setophaga magnolia,Magnoliazanger
+705,Setophaga castanea,Kastanjezanger
+706,Setophaga fusca,Sparrenzanger
+707,Setophaga petechia,Mangrovezanger
+708,Setophaga striata,Zwartkopzanger
+709,Setophaga palmarum,Palmzanger
+710,Setophaga pinus,Dennenzanger
+711,Setophaga coronata,Mirtezanger
+712,Setophaga dominica,Geelkeelzanger
+713,Campylopterus hemileucurus,Violette sabelvleugel
+714,Vireo cassinii,Cassins vireo
+715,Setophaga nigrescens,Grijze zwartkeelzanger
+716,Setophaga townsendi,Townsends zanger
+717,Setophaga occidentalis,Heremietzanger
+718,Setophaga chrysoparia,Geelwangzanger
+719,Setophaga virens,Gele zwartkeelzanger
+720,Cardellina canadensis,Canadese zanger
+721,Cardellina rubra,Rode zanger
+722,Aphelocoma coerulescens,Struikgaai
+723,Melanerpes erythrocephalus,Roodkopspecht
+724,Emberiza calandra,Grauwe gors
+725,Acanthis flammea,Grote barmsijs
+726,Spinus pinus,Dennensijs
+727,Thraupis abbas,Geelvleugeltangare
+728,Spinus psaltria,Witbandsijs
+729,Spinus lawrencei,Maskergeelvink
+730,Spinus tristis,Goudsijs
+731,Threskiornis aethiopicus,Heilige ibis
+732,Gygis alba,Opaalstern
+733,Tachycineta bicolor,Boomzwaluw
+734,Larus dominicanus dominicanus,404
+735,Lonchura oryzivora,Rijstvogel
+736,Haematopus palliatus,Amerikaanse bonte scholekster
+737,Chloris chloris,Groenling
+738,Accipiter cooperii,Coopers sperwer
+739,Vireo solitarius,Brilvireo
+740,Selasphorus platycercus,Breedstaartkolibrie
+741,Chroicocephalus scopulinus,Roodsnavelmeeuw
+742,Aechmophorus occidentalis,Zwanehalsfuut
+743,Hemiphaga novaeseelandiae,Nieuw-Zeelandse vruchtenduif
+744,Xema sabini,Vorkstaartmeeuw
+745,Ramphastos sulfuratus,Zwavelborsttoekan
+746,Dacelo novaeguineae,Kookaburra
+747,Fulica atra,Meerkoet
+748,Hirundo rustica erythrogaster,404
+749,Calypte costae,Costa's kolibrie
+750,Calypte anna,Anna's kolibrie
+751,Colaptes auratus cafer,404
+752,Sula nebouxii,Blauwvoetgent
+753,Copsychus saularis,Dayallijster
+754,Selasphorus sasin,Allens kolibrie
+755,Selasphorus rufus,Rosse kolibrie
+756,Calothorax lucifer,Luciferkolibrie
+757,Pycnonotus barbatus,Grauwe buulbuul
+758,Larus glaucescens × occidentalis,Beringmeeuw (occidentalis)
+759,Aphelocoma woodhouseii,Woodhouses struikgaai
+760,Florisuga mellivora,Witnekkolibrie
+761,Haematopus finschi,Finsch' scholekster
+762,Falcipennis canadensis,Bossneeuwhoen
+763,Archilochus alexandri,Zwartkinkolibrie
+764,Circus cyaneus,Blauwe kiekendief
+765,Ardea alba modesta,Oosterse grote zilverreiger
+766,Myiarchus crinitus,Grote kuiftiran
+767,Buteo regalis,Rosse ruigpootbuizerd
+768,Aeronautes saxatalis,Bonte gierzwaluw
+769,Chaetura vauxi,Vaux' gierzwaluw
+770,Chaetura pelagica,Schoorsteengierzwaluw
+771,Setophaga pensylvanica,Roestflankzanger
+772,Lanius ludovicianus,Amerikaanse klapekster
+773,Anhinga anhinga,Amerikaanse slangenhalsvogel
+774,Acridotheres tristis,Treurmaina
+775,Sitta pygmaea,Dwergboomklever
+776,Actophilornis africanus,Lelieloper
+777,Sitta canadensis,Canadese boomklever
+778,Sitta europaea,Boomklever
+779,Sitta pusilla,Bruinkopboomklever
+780,Apus apus,Gierzwaluw
+781,Sturnus vulgaris,Spreeuw
+782,Seiurus aurocapilla,Ovenvogel
+783,Motacilla flava,Gele kwikstaart
+784,Vireo griseus,Witoogvireo
+785,Toxostoma longirostre,Langsnavelspotlijster
+786,Calidris alba,Drieteenstrandloper
+787,Toxostoma redivivum,Californische spotlijster
+788,Gallinula galeata,Amerikaans waterhoen
+789,Calidris himantopus,Steltstrandloper
+790,Eugenes fulgens,Rivoli's kolibrie
+791,Icterus wagleri,Waglers troepiaal
+792,Icterus parisorum,Scotts troepiaal
+793,Buteo platypterus,Breedvleugelbuizerd
+794,Gallinago gallinago,Watersnip
+795,Icterus spurius,Tuintroepiaal
+796,Calidris minutilla,Kleinste strandloper
+797,Dumetella carolinensis,Katvogel
+798,Porphyrio hochstetteri,Zuidereilandtakahe
+799,Calidris fuscicollis,Bonapartes strandloper
+800,Phalaropus tricolor,Grote franjepoot
+801,Colaptes auratus auratus,404
+802,Melanotis caerulescens,Blauwe spotlijster
+803,Tiaris olivaceus,Grote cubavink
+804,Oreoscoptes montanus,Bergspotlijster
+805,Limnodromus scolopaceus,Grote grijze snip
+806,Tringa solitaria,Amerikaanse bosruiter
+807,Sitta carolinensis,Witborstboomklever
+808,Tringa totanus,Tureluur
+809,Dendrocygna autumnalis,Zwartbuikfluiteend
+810,Dendrocygna viduata,Witwangfluiteend
+811,Dendrocygna bicolor,Rosse fluiteend
+812,Icterus abeillei,Zwartstuittroepiaal
+813,Vanellus chilensis,Chileense kievit
+814,Cygnus buccinator,Trompetzwaan
+815,Cygnus cygnus,Wilde zwaan
+816,Cygnus columbianus,Fluitzwaan
+817,Cygnus olor,Knobbelzwaan
+818,Icterus galbula,Baltimoretroepiaal
+819,Anas platyrhynchos,Wilde eend
+820,Anas acuta,Pijlstaart (vogel)
+821,Anas crecca,Wintertaling
+822,Anas cyanoptera,Kaneeltaling
+823,Anas fulvigula,Gevlekte eend
+824,Anas discors,Blauwvleugeltaling
+825,Anas strepera,Krakeend
+826,Anas clypeata,Slobeend
+827,Anas chlorotis,Bruine taling
+828,Rhipidura leucophrys,Tuinwaaierstaart
+829,Anas americana,Amerikaanse smient
+830,Bucephala albeola,Buffelkopeend
+831,Mergus serrator,Middelste zaagbek
+832,Mergus merganser,Grote zaagbek
+833,Anser anser,Grauwe gans
+834,Anser albifrons,Kolgans
+835,Somateria mollissima,Eider (vogel)
+836,Rallus obsoletus,Californische ral
+837,Platycercus elegans,Pennantrosella
+838,Melanitta fusca,Grote zee-eend
+839,Milvus migrans,Zwarte wouw
+840,Gelochelidon nilotica,Lachstern
+841,Ninox novaeseelandiae novaeseelandiae,404
+842,Melanitta perspicillata,Brilzee-eend
+843,Aythya collaris,Ringsnaveleend
+844,Aythya ferina,Tafeleend
+845,Aythya fuligula,Kuifeend
+846,Numenius americanus,Amerikaanse wulp
+847,Chen caerulescens,Sneeuwgans
+848,Chamaea fasciata,Winterkoningmees
+849,Branta canadensis,Grote Canadese gans
+850,Thalasseus elegans,Sierlijke stern
+851,Branta sandvicensis,Hawaiigans
+852,Aythya americana,Amerikaanse tafeleend
+853,Aix sponsa,Carolina-eend
+854,Lophodytes cucullatus,Kokardezaagbek
+855,Histrionicus histrionicus,Harlekijneend
+856,Aratinga nenday,Nandayparkiet
+857,Psittacara holochlorus,Groene aratinga
+858,Cairina moschata,Muskuseend
+859,Netta rufina,Krooneend
+860,Psittacara erythrogenys,Ecuadoraratinga
+861,Sayornis saya,Says phoebe
+862,Aythya valisineria,Grote tafeleend
+863,Picoides albolarvatus,Witkopspecht
+864,Vermivora cyanoptera,Blauwvleugelzanger
+865,Corvus caurinus,Bairds kraai
+866,Asio otus,Ransuil
+867,Corvus brachyrhynchos,Amerikaanse kraai
+868,Clangula hyemalis,IJseend
+869,Chenonetta jubata,Manengans
+870,Thalasseus sandvicensis,Grote stern
+871,Eolophus roseicapilla,Roze kaketoe
+872,Colaptes rubiginosus,Olijfrugspecht
+873,Meleagris gallopavo silvestris,404
+874,Ptiliogonys cinereus,Grijze zijdevliegenvanger
+875,Elanoides forficatus,Zwaluwstaartwouw
+876,Carduelis carduelis,Putter
+877,Cassiculus melanicterus,Geelvleugelbuidelspreeuw
+878,Dendragapus fuliginosus,Grauw sneeuwhoen
+879,Psaltriparus minimus,Struikmees
+880,Aegithalos caudatus,Staartmees
+881,Zosterops lateralis lateralis,404
+882,Haliaeetus leucogaster,Witbuikzeearend
+883,Uria aalge,Zeekoet
+884,Tringa semipalmata inornatus,404
+885,Alauda arvensis,Veldleeuwerik
+886,Galerida cristata,Kuifleeuwerik
+887,Delichon urbicum,Huiszwaluw
+888,Helmitheros vermivorum,Streepkopzanger
+889,Hylocharis leucotis,404
+890,Mimus polyglottos,Spotlijster
+891,Gymnorhina tibicen,Zwartrugfluitvogel
+892,Alcedo atthis,IJsvogel
+893,Streptopelia chinensis,Parelhalstortel
+894,Bombycilla cedrorum,Cederpestvogel
+895,Bombycilla garrulus,Pestvogel
+896,Tadorna tadorna,Bergeend
+897,Petroica australis australis,404
+898,Amazona autumnalis,Geelwangamazone
+899,Dendragapus obscurus,Blauw sneeuwhoen
+900,Catherpes mexicanus,Kloofwinterkoning
+901,Tadorna ferruginea,Casarca
+902,Campylorhynchus brunneicapillus,Cactuswinterkoning
+903,Campylorhynchus rufinucha,Veracruzwinterkoning
+904,Rhipidura fuliginosa,Maoriwaaierstaart
+905,Polioptila melanura,Zwartstaartmuggenvanger
+906,Pelecanus occidentalis carolinensis,404
+907,Melozone aberti,Zwartkintowie
+908,Melozone crissalis,Californische towie
+909,Thryothorus ludovicianus,Carolinawinterkoning
+910,Parabuteo unicinctus,Woestijnbuizerd
+911,Anas platyrhynchos domesticus,Tamme eend
+912,Troglodytes aedon,Noordelijke huiswinterkoning
+913,Buteo lineatus elegans,404
+914,Thamnophilus doliatus,Gebandeerde mierklauwier
+915,Thryomanes bewickii,Bewicks winterkoning
+916,Tadorna variegata,Paradijscasarca
+917,Myioborus miniatus,Meniezanger
+918,Phalacrocorax varius varius,404
+919,Myioborus pictus,Roodbuikzanger
+920,Larus argentatus smithsonianus,Amerikaanse zilvermeeuw
+921,Parkesia motacilla,Louisianawaterlijster
+922,Sula granti,Nazcagent
+923,Ara macao,Geelvleugelara
+924,Peucaea ruficauda,Roeststaartgors
+925,Calidris subruficollis,Blonde ruiter
+926,Phoenicopterus roseus,Flamingo
+927,Morus bassanus,Jan-van-gent
+928,Pelecanus occidentalis californicus,404
+929,Glaucidium brasilianum,Braziliaanse dwerguil
+930,Oxyura jamaicensis,Rosse stekelstaart
+931,Myiarchus cinerascens,Grijskeeltiran
+932,Chloroceryle americana,Groene ijsvogel
+933,Sturnella neglecta,Geelkaakweidespreeuw
+934,Ramphastos ambiguus,Zwartsnaveltoekan
+935,Paroaria coronata,Roodkuifkardinaal
+936,Buteo buteo,Buizerd
+937,Myiodynastes luteiventris,Witvoorhoofdtiran
+938,Contopus sordidulus,Westelijke bospiewie
+939,Corvus corone,Zwarte kraai
+940,Cyanoramphus novaezelandiae,Roodvoorhoofdkakariki
+941,Contopus virens,Oostelijke bospiewie
+942,Contopus pertinax,Grote piewie
+943,Contopus cooperi,Sparrenpiewie
+944,Larus argentatus,Zilvermeeuw
+945,Halcyon smyrnensis,Smyrna-ijsvogel
+946,Onychognathus morio,Roodvleugelspreeuw
+947,Cyanocompsa parellina,Azuurbisschop
+948,Cistothorus palustris,Moeraswinterkoning
+949,Tyto alba,Kerkuil
+950,Trogon caligatus,Goulds trogon
+951,Corvus monedula,Kauw (vogel)
+952,Corvus ossifragus,Viskraai
+953,Spheniscus demersus,Zwartvoetpinguïn
+954,Corvus frugilegus,Roek
+955,Corvus splendens,Huiskraai
+956,Branta bernicla,Rotgans
+957,Larus hyperboreus,Grote burgemeester
+958,Columba livia domestica,Huisduif
+959,Garrulus glandarius,Gaai
+960,Anser anser domesticus,Boerengans
+961,Mitrephanes phaeocercus,Geelbuiktiran
+962,Ardenna creatopus,Chileense grote pijlstormvogel
+963,Ardenna gravis,Grote pijlstormvogel

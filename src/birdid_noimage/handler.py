@@ -6,14 +6,9 @@ from PIL import Image, ImageOps
 from tflite_runtime.interpreter import Interpreter
 import numpy as np
 import io
+import csv
 
 RUNNING_IN_LAMBDA=os.environ.get("AWS_EXECUTION_ENV") is not None
-
-def get_directory(dir):
-    if RUNNING_IN_LAMBDA:
-        return f'/var/task/' + dir
-    else:
-        return dir
 
 def get_model():
     # print(os.listdir('./'))
@@ -26,6 +21,12 @@ def get_model():
     return interpreter
 
 CLASSIFIER=get_model()
+
+BIRDS=[]
+with open('/opt/nederland.csv', 'r') as f:
+    for bird in csv.DictReader(f):
+        BIRDS.append(bird)
+BIRD_MAP={bird.get('id'):bird.get('dutch_name') for bird in BIRDS}
 
 def analyze_image(bucket_name, object_key):
     print(bucket_name, object_key)
@@ -42,24 +43,15 @@ def analyze_image(bucket_name, object_key):
     # x = tf.keras.utils.img_to_array(img, dtype="float32")
     # y = tf.cast(x, tf.float32) / 255.0
     # z = tf.convert_to_tensor([y])
-    # x = [
-    #     { 'name': 'module/hub_input/images_uint8',
-    #       'index': 170, 
-    #       'shape': array([  1, 224, 224,   3], dtype=int32), 
-    #       'shape_signature': array([  1, 224, 224,   3], dtype=int32), 
-    #       'dtype': <class 'numpy.uint8'>, 
-    #       'quantization': (0.0078125, 128), 
-    #       'quantization_parameters': {
-    #         'scales': array([0.0078125], dtype=float32), 
-    #         'zero_points': array([128], dtype=int32), 
-    #         'quantized_dimension': 0},
-    #         'sparsity_parameters': {}
-    #     }]
     #print(input_details[0]['index'])
     CLASSIFIER.set_tensor(170, img)
     CLASSIFIER.invoke()
-    predictions = CLASSIFIER.get_tensor(171)[0]
-    print(predictions)
+    scores = CLASSIFIER.get_tensor(171)[0]
+    bird_scores = [{ "idx": idx, "bird": BIRD_MAP.get(str(idx), {}), "score": '{0:.{1}f}%'.format(score / 255, 1), "raw_score": score } for idx,score in enumerate(scores)]
+    bird_scores.sort(key=lambda x: x.get("raw_score", 0), reverse=True)
+    bird_scores = bird_scores[:5]
+    print(json.dumps(bird_scores, indent=2, default=str))
+    return bird_scores
 
 def handler(event, context):
     s3_event = event.get('Records', [{}])[0].get('s3', {})

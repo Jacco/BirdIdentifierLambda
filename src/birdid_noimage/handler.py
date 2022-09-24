@@ -38,19 +38,14 @@ def analyze_image(bucket_name, object_key):
     img = ImageOps.fit(img, (224, 224))
     img = np.array(img)
     img = np.expand_dims(img, axis=0)
-    # img.save('./images/fitted.jpg')
-    # img = tf.keras.utils.load_img(get_directory('images') + '/ekster.jpeg', target_size=(224,224), keep_aspect_ratio=True)
-    # x = tf.keras.utils.img_to_array(img, dtype="float32")
-    # y = tf.cast(x, tf.float32) / 255.0
-    # z = tf.convert_to_tensor([y])
-    #print(input_details[0]['index'])
     CLASSIFIER.set_tensor(170, img)
     CLASSIFIER.invoke()
     scores = CLASSIFIER.get_tensor(171)[0]
-    bird_scores = [{ "idx": idx, "bird": BIRD_MAP.get(str(idx), {}), "score": '{0:.{1}f}%'.format(score / 255, 1), "raw_score": score } for idx,score in enumerate(scores)]
+    bird_scores = [
+        { "idx": idx, "bird": BIRD_MAP.get(str(idx), {}), "score": '{0:.{1}f}%'.format(score / 255, 1), "raw_score": score } 
+        for idx,score in enumerate(scores)]
     bird_scores.sort(key=lambda x: x.get("raw_score", 0), reverse=True)
     bird_scores = bird_scores[:5]
-    print(json.dumps(bird_scores, indent=2, default=str))
     return bird_scores
 
 def handler(event, context):
@@ -60,7 +55,13 @@ def handler(event, context):
     fn, ext = os.path.splitext(object_key)
     if ext in ['.jpg', '.jpeg']:
         scores = analyze_image(bucket_name, object_key)
-
+        s3 = boto3.resource('s3')
+        s3object = s3.Object(bucket_name, fn + '.json')
+        s3object.put(
+            Body=(bytes(json.dumps(scores, indent=2, default=str).encode('UTF-8')))
+        )
+    else:
+        print('skipping no image', object_key, ext)
 if __name__ == '__main__':
     with open("./src/birdid/test.json", "r") as f:
         event = json.load(f)
